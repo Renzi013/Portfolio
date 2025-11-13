@@ -1,0 +1,1 @@
+This is my personal portfolio. This may include some detailes about myself, my skills, and contact information.
